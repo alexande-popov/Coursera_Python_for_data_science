@@ -20,3 +20,8 @@ https://www.coursera.org/learn/python-for-data-science/home/info
 * Визуализация с `pandas`.
 * Интерактивная визуализация с `plotly`.
 * Статистика в `scipy`: [`Stat_distributions.ipynb`](/week_2/Stat_distributions.ipynb).
+
+## [Week 3](week_3)
+* Применение линейных моделей:
+    * регрессия: [`linear_models_regresion.ipynb`](/week_2/linear_models_regresion.ipynb);
+    * классификация: [`linear_models_klassification.ipynb`](/week_2/linear_models_klassification.ipynb).
