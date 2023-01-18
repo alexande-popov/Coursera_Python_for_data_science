@@ -14,9 +14,9 @@ https://www.coursera.org/learn/python-for-data-science/home/info
 * Работа с несколькими таблицами.
 * Преобразование признаков.
 
-## Week 2
+## [Week 2](week_2)
 * Визуализация с `matplotlib`.
 * Расширенная визуализация с `matplotlib`.
 * Визуализация с `pandas`.
 * Интерактивная визуализация с `plotly`.
-* Статистика в `scipy`.
+* Статистика в `scipy`: [`Stat_distributions.ipynb`](/week_2/Stat_distributions.ipynb).
