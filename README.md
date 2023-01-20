@@ -23,5 +23,5 @@ https://www.coursera.org/learn/python-for-data-science/home/info
 
 ## [Week 3](week_3)
 * Применение линейных моделей:
-    * регрессия: [`linear_models_regression.ipynb`](/week_3/linear_models_regression.ipynb);
-    * классификация: [`linear_models_klassification.ipynb`](/week_3/linear_models_klassification.ipynb).
+    * (линейна) регрессия: [`linear_models_regression.ipynb`](/week_3/linear_models_regression.ipynb);
+    * логистическая регрессия (задача классификацииклассификации): [`linear_models_classification.ipynb`](/week_3/linear_models_classification.ipynb).
