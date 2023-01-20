@@ -25,7 +25,7 @@ https://www.coursera.org/learn/python-for-data-science/home/info
 * Применение линейных моделей `sklearn.linear_model`:
     * (линейная) регрессия:
         * `LinearRegression`: [regression](/week_3/linear_models_regression.ipynb);
-        * с регуляризацией L1, L2, L1+L2: [task-3.1](/week_3/task-3.1.ipynb)
+        * с регуляризацией L2, L1, L1+L2 (`Ridge`, `Lasso`, `ElasticNet`): [task-3.1](/week_3/task-3.1.ipynb), [task-3.2.1](/week_3/task-3.2.1-Regularization-Ridge-Lasso.ipynb)
     * логистическая регрессия (задача классификацииклассификации) `LogisticRegression`: [classification](/week_3/linear_models_classification.ipynb), [cross-validation](/week_3/linear_models_cross_validation.ipynb)
 * Стандартизация данных `sklearn.preprocessing.StandardScaler`: [task-3.1](/week_3/task-3.1.ipynb)
 * Разбиение на тренировочную и тестовую выборки `sklearn.model_selection`:
