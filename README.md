@@ -28,4 +28,4 @@ https://www.coursera.org/learn/python-for-data-science/home/info
         * с регуляризацией L1, L2, L1+L2: [`task-3.1.ipynb`](/week_3/task-3.1.ipynb)
     * логистическая регрессия (задача классификацииклассификации) `sklearn.linear_model.LogisticRegression`: [`linear_models_classification.ipynb`](/week_3/linear_models_classification.ipynb).
 * Стандартизация данных `sklearn.preprocessing.StandardScaler`: [`task-3.1.ipynb`](/week_3/task-3.1.ipynb)
-* Разбиение на тренировочную и тестовую выборки: [`task-3.1.ipynb`](/week_3/task-3.1.ipynb)
+* Разбиение на тренировочную и тестовую выборки `sklearn.model_selection.train_test_split`: [`task-3.1.ipynb`](/week_3/task-3.1.ipynb)
