@@ -22,10 +22,12 @@ https://www.coursera.org/learn/python-for-data-science/home/info
 * Статистика в `scipy`: [`Stat_distributions.ipynb`](/week_2/Stat_distributions.ipynb).
 
 ## [Week 3](week_3)
-* Применение линейных моделей:
-    * (линейная) регрессия 
-        * `sklearn.linear_model.LinearRegression`: [`linear_models_regression.ipynb`](/week_3/linear_models_regression.ipynb);
-        * с регуляризацией L1, L2, L1+L2: [`task-3.1.ipynb`](/week_3/task-3.1.ipynb)
-    * логистическая регрессия (задача классификацииклассификации) `sklearn.linear_model.LogisticRegression`: [`linear_models_classification.ipynb`](/week_3/linear_models_classification.ipynb).
-* Стандартизация данных `sklearn.preprocessing.StandardScaler`: [`task-3.1.ipynb`](/week_3/task-3.1.ipynb)
-* Разбиение на тренировочную и тестовую выборки `sklearn.model_selection.train_test_split`: [`task-3.1.ipynb`](/week_3/task-3.1.ipynb)
+* Применение линейных моделей `sklearn.linear_model`:
+    * (линейная) регрессия:
+        * `LinearRegression`: [regression](/week_3/linear_models_regression.ipynb);
+        * с регуляризацией L1, L2, L1+L2: [task-3.1](/week_3/task-3.1.ipynb)
+    * логистическая регрессия (задача классификацииклассификации) `LogisticRegression`: [classification](/week_3/linear_models_classification.ipynb), [cross-validation](/week_3/linear_models_cross_validation.ipynb)
+* Стандартизация данных `sklearn.preprocessing.StandardScaler`: [task-3.1](/week_3/task-3.1.ipynb)
+* Разбиение на тренировочную и тестовую выборки `sklearn.model_selection`:
+    * `train_test_split`: [task-3.1](/week_3/task-3.1.ipynb)
+    * Кросс-валидация k-fold  `KFold`: [cross-validation](/week_3/linear_models_cross_validation.ipynb)
