@@ -31,3 +31,5 @@ https://www.coursera.org/learn/python-for-data-science/home/info
 * Разбиение на тренировочную и тестовую выборки `sklearn.model_selection`:
     * `train_test_split`: [task-3.1](/week_3/task-3.1.ipynb)
     * Кросс-валидация k-fold  `KFold`: [cross-validation](/week_3/linear_models_cross_validation.ipynb)
+* Метрики качетсва:
+    * классификация: [бинарная](/week_3/linear_models_classification.ipynb)
