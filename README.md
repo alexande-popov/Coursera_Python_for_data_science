@@ -29,7 +29,8 @@ https://www.coursera.org/learn/python-for-data-science/home/info
     * логистическая регрессия (задача классификацииклассификации) `LogisticRegression`: [classification](/week_3/linear_models_classification.ipynb), [cross-validation](/week_3/linear_models_cross_validation.ipynb)
 * Стандартизация данных `sklearn.preprocessing.StandardScaler`: [task-3.1](/week_3/task-3.1.ipynb)
 * Разбиение на тренировочную и тестовую выборки `sklearn.model_selection`:
-    * `train_test_split`: [task-3.1](/week_3/task-3.1.ipynb)
-    * Кросс-валидация k-fold  `KFold`: [cross-validation](/week_3/linear_models_cross_validation.ipynb)
+    * `train_test_split`: [task-3.1](/week_3/task-3.1.ipynb), [task-3.2.2](/week_3/test_5_task-3.2.2-Metrics.ipynb)
+    * Кросс-валидация k-fold  `KFold`: [KFold](/week_3/linear_models_cross_validation.ipynb), [StratifiedKFold](/week_3/test_5_task-3.2.2-Metrics.ipynb)
 * Метрики качетсва:
-    * классификация: [бинарная](/week_3/linear_models_classification.ipynb)
+    * классификация: [бинарная](/week_3/linear_models_classification.ipynb), [бинарная, cross_val_score](/week_3/test_5_task-3.2.2-Metrics.ipynb)
+    * регрессия: [task-3.1](/week_3/task-3.1.ipynb)
