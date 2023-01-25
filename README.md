@@ -38,3 +38,4 @@ https://www.coursera.org/learn/python-for-data-science/home/info
 ##  [Week 4](/week_4_Unsupervised_Learning_Methods/). Обучение без учителя.
 * Методы кластеризации:
     * Метод k-средних: [`KMeans()`](/week_4_Unsupervised_Learning_Methods/k_means_clustering.ipynb)
+    * Иерархическая агломеративная: [dendrogram](/week_4_Unsupervised_Learning_Methods/agglomerative_hierarchical_clustering.ipynb)
